@@ -100,7 +100,7 @@
 
 #define QT_FEATURE_gui 1
 
-#define QT_FEATURE_network -1
+#define QT_FEATURE_network 1
 
 #define QT_FEATURE_printsupport -1
 
@@ -114,7 +114,7 @@
 
 #define QT_FEATURE_libudev -1
 
-#define QT_FEATURE_openssl 1
+#define QT_FEATURE_openssl -1
 
 #define QT_FEATURE_dlopen -1
 

@@ -60,7 +60,7 @@
 
 #define QT_FEATURE_openssl_linked -1
 
-#define QT_FEATURE_opensslv11 1
+#define QT_FEATURE_opensslv11 -1
 
 #define QT_FEATURE_opensslv30 -1
 
@@ -98,3 +98,4 @@
 #define QT_COMPILER_SUPPORTS_SHA 1
 #define QT_NO_CONCURRENT 1
 #define QT_NO_DBUS 1
+#define QT_NO_OPENSSL

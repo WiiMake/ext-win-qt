@@ -5,7 +5,7 @@ endif()
 
 # Import configure-time executable Qt6::syncqt
 if(NOT TARGET Qt6::syncqt)
-    set(_qt_imported_location "${PACKAGE_PREFIX_DIR}/./bin/syncqt.exe")
+    set(_qt_imported_location "${PACKAGE_PREFIX_DIR}/bin/syncqt.exe")
     if(NOT EXISTS "${_qt_imported_location}")
         message(FATAL_ERROR "Unable to add configure time executable Qt6::syncqt"
             " ${_qt_imported_location} doesn't exists")

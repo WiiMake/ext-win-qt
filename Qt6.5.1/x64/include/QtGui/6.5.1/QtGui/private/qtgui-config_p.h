@@ -90,7 +90,7 @@
 
 #define QT_FEATURE_tslib -1
 
-#define QT_FEATURE_tuiotouch -1
+#define QT_FEATURE_tuiotouch 1
 
 #define QT_FEATURE_xcb_glx -1
 
