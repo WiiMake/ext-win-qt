@@ -26,7 +26,7 @@
 
 #define QT_FEATURE_xmlstream 1
 
-#define QT_FEATURE_cpp_winrt 1
+#define QT_FEATURE_cpp_winrt -1
 
 #define QT_FEATURE_xmlstreamreader 1
 

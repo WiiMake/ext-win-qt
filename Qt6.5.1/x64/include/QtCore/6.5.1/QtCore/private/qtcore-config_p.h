@@ -50,7 +50,7 @@
 
 #define QT_FEATURE_backtrace -1
 
-#define QT_FEATURE_cpp_winrt 1
+#define QT_FEATURE_cpp_winrt -1
 
 #define QT_FEATURE_sha3_fast 1
 

@@ -1,0 +1,12 @@
+{
+    "name": "ShaderTools",
+    "repository": "qtshadertools",
+    "version": "6.5.1",
+    "built_with": {
+        "compiler_id": "MSVC",
+        "compiler_target": "",
+        "compiler_version": "19.42.34435.0",
+        "cross_compiled": false,
+        "target_system": "Windows"
+    }
+}

@@ -54,7 +54,7 @@
 
 #define QT_FEATURE_future 1
 
-#define QT_FEATURE_concurrent -1
+#define QT_FEATURE_concurrent 1
 
 #define QT_FEATURE_dbus -1
 
@@ -96,6 +96,5 @@
 #define QT_COMPILER_SUPPORTS_RDRND 1
 #define QT_COMPILER_SUPPORTS_RDSEED 1
 #define QT_COMPILER_SUPPORTS_SHA 1
-#define QT_NO_CONCURRENT 1
 #define QT_NO_DBUS 1
 #define QT_NO_OPENSSL
